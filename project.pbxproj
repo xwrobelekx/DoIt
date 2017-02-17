@@ -13,6 +13,7 @@
 		8465729E1E57587C00C18606 /* DoIt.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8465729C1E57587C00C18606 /* DoIt.xcdatamodeld */; };
 		846572A01E57587C00C18606 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8465729F1E57587C00C18606 /* Assets.xcassets */; };
 		846572A31E57587C00C18606 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 846572A11E57587C00C18606 /* LaunchScreen.storyboard */; };
+		846572AB1E576F9000C18606 /* task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846572AA1E576F9000C18606 /* task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8465729F1E57587C00C18606 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		846572A21E57587C00C18606 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		846572A41E57587C00C18606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		846572AA1E576F9000C18606 /* task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				846572951E57587C00C18606 /* AppDelegate.swift */,
 				846572971E57587C00C18606 /* ViewController.swift */,
+				846572AA1E576F9000C18606 /* task.swift */,
 				846572991E57587C00C18606 /* Main.storyboard */,
 				8465729F1E57587C00C18606 /* Assets.xcassets */,
 				846572A11E57587C00C18606 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846572AB1E576F9000C18606 /* task.swift in Sources */,
 				8465729E1E57587C00C18606 /* DoIt.xcdatamodeld in Sources */,
 				846572981E57587C00C18606 /* ViewController.swift in Sources */,
 				846572961E57587C00C18606 /* AppDelegate.swift in Sources */,
