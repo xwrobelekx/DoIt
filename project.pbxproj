@@ -15,6 +15,7 @@
 		846572A31E57587C00C18606 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 846572A11E57587C00C18606 /* LaunchScreen.storyboard */; };
 		846572AB1E576F9000C18606 /* task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846572AA1E576F9000C18606 /* task.swift */; };
 		846572AD1E5790A700C18606 /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846572AC1E5790A700C18606 /* CreateTaskViewController.swift */; };
+		847ACC6C1E5BDECD006FA047 /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847ACC6B1E5BDECD006FA047 /* CompleteTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		846572A41E57587C00C18606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		846572AA1E576F9000C18606 /* task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = task.swift; sourceTree = "<group>"; };
 		846572AC1E5790A700C18606 /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
+		847ACC6B1E5BDECD006FA047 /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				846572951E57587C00C18606 /* AppDelegate.swift */,
 				846572971E57587C00C18606 /* TasksViewController.swift */,
+				847ACC6B1E5BDECD006FA047 /* CompleteTaskViewController.swift */,
 				846572AC1E5790A700C18606 /* CreateTaskViewController.swift */,
 				846572AA1E576F9000C18606 /* task.swift */,
 				846572991E57587C00C18606 /* Main.storyboard */,
@@ -147,6 +150,7 @@
 			files = (
 				846572AB1E576F9000C18606 /* task.swift in Sources */,
 				8465729E1E57587C00C18606 /* DoIt.xcdatamodeld in Sources */,
+				847ACC6C1E5BDECD006FA047 /* CompleteTaskViewController.swift in Sources */,
 				846572981E57587C00C18606 /* TasksViewController.swift in Sources */,
 				846572961E57587C00C18606 /* AppDelegate.swift in Sources */,
 				846572AD1E5790A700C18606 /* CreateTaskViewController.swift in Sources */,
