@@ -1,3 +1,3 @@
 # DoIt
 
-https://www.codewars.com/users/xwrobelekx/badges/small
+![elo](https://www.codewars.com/users/xwrobelekx/badges/small)
